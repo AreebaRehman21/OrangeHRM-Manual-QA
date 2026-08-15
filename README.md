@@ -95,7 +95,7 @@ The OrangeHRM Jira project includes:
 | Bug ID | Bug Summary | Module | Priority | Status |
 |---|---|---|---|---|
 | OHRM-1 | Login allows SQL Injection input | Login | High | To Do |
-| OHRM-2 | Dashboard does not display a proper error message when network connection is interrupted | Dashboard | Medium | To Do |
+| OHRM-2 | Dashboard does not display a proper error message when network connection is interrupted | Dashboard | Medium | In Progress |
 | OHRM-3 | My Info allows saving record with mandatory fields left blank | My Info | High | To Do |
 | OHRM-4 | Date of Birth accepts a future date | My Info | Medium | To Do |
 | OHRM-5 | Password is updated even when the current password is incorrect | Change Password | High | To Do |
